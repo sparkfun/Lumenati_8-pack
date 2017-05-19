@@ -368,11 +368,11 @@ F 3 "" H 2150 5450 50  0001 C CNN
 	1    2150 5450
 	1    0    0    -1  
 $EndComp
-Text Notes 10600 7650 0    60   ~ 12
+Text Notes 10600 7650 0    60   ~ 0
 v02
-Text Notes 8250 7650 0    60   ~ 12
+Text Notes 8250 7650 0    60   ~ 0
 5/15/17
-Text Notes 7350 7500 0    60   ~ 12
+Text Notes 7350 7500 0    60   ~ 0
 HiBeam 8-pack
 $Comp
 L +5V #PWR?
@@ -723,14 +723,33 @@ Wire Wire Line
 	2000 4850 2150 4850
 Connection ~ 2150 5300
 $Comp
-L FRAME-LETTER FRAME?
-U 2 1 591CA070
-P 2950 7750
-F 0 "FRAME?" H 2950 7750 50  0001 C CNN
-F 1 "FRAME-LETTER" H 2950 7750 50  0001 C CNN
-F 2 "CREATIVE_COMMONS" H 2980 7900 20  0001 C CNN
-F 3 "" H 2950 7750 60  0001 C CNN
-	2    2950 7750
+L SFE_LOGO_FLAME1_INCH LOGO?
+U 1 1 591CA394
+P 6350 7600
+F 0 "LOGO?" H 6350 7600 50  0001 C CNN
+F 1 "SFE_LOGO_FLAME1_INCH" H 6350 7600 50  0001 C CNN
+F 2 "SFE_LOGO_FLAME_.9" H 6380 7750 20  0001 C CNN
+F 3 "" H 6350 7600 60  0001 C CNN
+	1    6350 7600
 	1    0    0    -1  
 $EndComp
+$Comp
+L OSHW-LOGOMINI LOGO?
+U 1 1 591CA41A
+P 5700 7250
+F 0 "LOGO?" H 5700 7250 50  0001 C CNN
+F 1 "OSHW-LOGOMINI" H 5700 7250 50  0001 C CNN
+F 2 "OSHW-LOGO-MINI" H 5730 7400 20  0001 C CNN
+F 3 "" H 5700 7250 60  0001 C CNN
+	1    5700 7250
+	1    0    0    -1  
+$EndComp
+Text Notes 7020 6941 0    79   ~ 0
+Released under the Creative Commons\nAttribution Share-Alike 4.0 License\nhttps://creativecommons.org/licenses/by-sa/4.0/
+Text Notes 7280 7247 0    60   ~ 0
+1
+Text Notes 7388 7244 0    60   ~ 0
+1
+Text Notes 7026 7085 0    79   ~ 0
+Designed by Pete Dokter
 $EndSCHEMATC
