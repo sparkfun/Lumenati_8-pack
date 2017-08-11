@@ -369,11 +369,11 @@ F 3 "" H 2150 5450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 10600 7650 0    60   ~ 0
-v02
+v10
 Text Notes 8250 7650 0    60   ~ 0
 5/15/17
 Text Notes 7350 7500 0    60   ~ 0
-HiBeam 8-pack
+Lumenati 8-pack
 $Comp
 L +5V #PWR?
 U 1 1 591A0A66
