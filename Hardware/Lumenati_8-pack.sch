@@ -28,25 +28,37 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:apa102-pov-cache
-LIBS:APA102
+LIBS:SparkFun-Aesthetics - Copy
 LIBS:SparkFun-Aesthetics
-LIBS:SparkFun-AnalogIC
+LIBS:SparkFun-Batteries
 LIBS:SparkFun-Boards
 LIBS:SparkFun-Capacitors
+LIBS:SparkFun-Clocks
+LIBS:SparkFun-Coils
 LIBS:SparkFun-Connectors
-LIBS:SparkFun-DigitalIC
 LIBS:SparkFun-DiscreteSemi
+LIBS:SparkFun-Displays
 LIBS:SparkFun-Electromechanical
-LIBS:SparkFun-FreqCtrl
+LIBS:SparkFun-Fuses
+LIBS:SparkFun-GPS
+LIBS:SparkFun-Hardware
+LIBS:SparkFun-IC-Amplifiers
+LIBS:SparkFun-IC-Comms
+LIBS:SparkFun-IC-Conversion
+LIBS:SparkFun-IC-Logic
+LIBS:SparkFun-IC-Memory
+LIBS:SparkFun-IC-Microcontroller
+LIBS:SparkFun-IC-Power
+LIBS:SparkFun-IC-Special-Function
+LIBS:SparkFun-Jumpers
 LIBS:SparkFun-LED
-LIBS:SparkFun-Passives
-LIBS:SparkFun-PowerIC
+LIBS:SparkFun-PowerSymbols
 LIBS:SparkFun-Resistors
 LIBS:SparkFun-RF
 LIBS:SparkFun-Sensors
-LIBS:HiBeam_8-pack_v02-cache
-EELAYER 26 0
+LIBS:SparkFun-Switches
+LIBS:Lumenati_8-pack-cache
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -750,6 +762,30 @@ F 1 "SFE_LOGO_NAME_FLAME.1_INCH" H 3400 7750 50  0001 C CNN
 F 2 "SFE_LOGO_NAME_FLAME_.1" H 3430 7900 20  0001 C CNN
 F 3 "" H 3400 7750 60  0001 C CNN
 	1    3400 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L FIDUCIAL1X2 FD?
+U 1 1 59970D49
+P 11050 6200
+F 0 "FD?" H 11050 6300 45  0001 C CNN
+F 1 "FIDUCIAL1X2" H 11050 6100 45  0001 C CNN
+F 2 "FIDUCIAL-1X2" H 11050 6350 20  0001 C CNN
+F 3 "" H 11050 6200 60  0001 C CNN
+F 4 "XXX-00000" H 11050 6400 60  0001 C CNN "Field4"
+	1    11050 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L FIDUCIAL1X2 FD?
+U 1 1 59970EFF
+P 11050 6400
+F 0 "FD?" H 11050 6500 45  0001 C CNN
+F 1 "FIDUCIAL1X2" H 11050 6300 45  0001 C CNN
+F 2 "FIDUCIAL-1X2" H 11050 6550 20  0001 C CNN
+F 3 "" H 11050 6400 60  0001 C CNN
+F 4 "XXX-00000" H 11050 6600 60  0001 C CNN "Field4"
+	1    11050 6400
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
