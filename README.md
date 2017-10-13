@@ -5,7 +5,7 @@ SparkFun Lumenati 8-pack
 
 [*SparkFun Lumenati 8-pack (COM-14357)*](https://www.sparkfun.com/products/14357)
 
-The SparkFun Lumenati 8-pack is a coin-sized board equipped with eight APA102C LEDs surrounding the outer edge of the board, with one in the center. Designed to give your projects an edge in their lighting capacity, the 8-pack board can be daisy-chained with other Lumenati boards, thanks to the multiple SMD pads on the back allowing for multiple design options and formations. 
+The SparkFun Lumenati 8-pack is a coin-sized board equipped with seven APA102C LEDs surrounding the outer edge of the board, with one in the center. Designed to give your projects an edge in their lighting capacity, the 8-pack board can be daisy-chained with other Lumenati boards, thanks to the multiple SMD pads on the back allowing for multiple design options and formations. 
 
 Repository Contents
 -------------------
