@@ -61,6 +61,18 @@ local.properties
 *.lck
 
 
+#############
+## KiCad
+#############
+
+# Ignore gerbers, back up files and other outputs
+*cache.lib
+*.kicad_pcb-bak
+*.net
+*.gbr
+*.drl
+
+
 #################
 ## Visual Studio
 #################
